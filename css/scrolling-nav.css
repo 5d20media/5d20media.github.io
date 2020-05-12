@@ -45,13 +45,17 @@ footer {
     color: #1A0315;
 }
 
+.card-text a {
+    color: #0072ed;
+}
+
 .btn-primary {
     background-color: #1A0315;
     color: #88d317;
 }
 
 .btn-primary:hover {
-    background-color: #535353;
+    background-color: #6e3667;
     color: #fff;
 }
 section {
