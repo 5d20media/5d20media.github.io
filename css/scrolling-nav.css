@@ -41,7 +41,19 @@ footer {
     background-color: #535353 !important;
     color: #fff;
 }
+.card-title, .card-text {
+    color: #1A0315;
+}
 
+.btn-primary {
+    background-color: #1A0315;
+    color: #88d317;
+}
+
+.btn-primary:hover {
+    background-color: #535353;
+    color: #fff;
+}
 section {
   padding: 150px 0;
 }
